@@ -1,0 +1,14 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Û®÷â8Şìô-
+wsquid:S3012*"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(æ°Ş›8ñØãô-
+V
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(úĞ­8¨¤³ô-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(£³±ç8¾úŒô-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(æé–¬8¡¤‰ô-
+Vsquid:S1854^"8Remove this useless assignment to local variable "data".(ı‚¥Ë8ñŞÑ©ô-
+`squid:HiddenFieldCheck^"7Rename "data" which hides the field declared at line 6.(ı‚¥Ë8ñŞÑ©ô-
+Gsquid:S1481^")Remove this unused "data" local variable.(ı‚¥Ë8ñŞÑ©ô-
